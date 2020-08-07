@@ -1,0 +1,41 @@
+#############################################                                                                                                   #                                                                 #
+#  |      /          |------------          #                                                                                #
+#  |    /            |                      #
+#  |   /             |                      #
+#  |__/              |                      #
+#  |  \              |                      #
+#  |   \             |                      #
+#  |    \            |                      #
+#  |     \           |-------------         #                                                                             #
+#############################################
+
+#NOTE: THE SMPMOREFUNRELOAD COMMAND WILL NOT WORK WITH THE CRAFTING STUFF.
+
+Armourofgod: true
+#Allows players to craft Armourofgod.
+LightningAxe: true
+#Allows players to craft the GodAxe/LightningAxe.
+TeleportBow: true
+#Allows players to craft the TeleportBow.
+ExplosionPickaxe: true
+#Allows players to craft the ExplosionPickaxe.
+GlowStick: true
+#Allows players to craft the GlowStick
+Backpack:
+  craft: true
+  #Allows Players to craft the backpack
+  size: 54
+  #Size of the Backpack  should be multiple of 9 or it WILL give errors
+AncientSword:
+  #Below is to enable the crafting recipe or not
+    enable: true
+VanishHoe:
+  enable: true
+  #If you want to enable the crafting recipe or not
+  playeruse: true
+  #If you want players to use the vanish hoe
+Telepathy Shovel:
+  enable: true
+  #If you want to enable the crafting recipe or not
+  playeruse: true
+  #If you want players to use  the Telepathy Shovel or not

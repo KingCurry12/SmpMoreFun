@@ -1,0 +1,26 @@
+name: SmpMoreFun
+version: ${project.version}
+main: me.gloomified.user.smpmorefun.SmpMoreFun
+api-version: 1.16
+authors: [_KingCurry_]
+description: Makes SmpMoreFun
+commands:
+  Backpack:
+    description: 'Backpack command'
+    usage: /backpack
+  SmpMoreFun:
+    description: 'Info Command'
+    usage: /<command>
+  SmpMoreFunreload:
+    description: 'Reloads the config'
+  vanishtest:
+    description: 'vanish test'
+
+
+permissions:
+  Smpmorefun.use.backpack:
+    description: Allows backpack command
+  Smpmorefun.use.reload:
+    description: Allows the reload command
+  SmpMoreFun.use.VanishHoe:
+    description: Allows players to use the vanish hoe
