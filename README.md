@@ -1,0 +1,2 @@
+# fantastic-guacamole
+SmpMoreFun plugin
